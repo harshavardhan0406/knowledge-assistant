@@ -1,0 +1,4 @@
+Django>=5.1,<5.3
+requests>=2.32
+pypdf>=5.0
+gunicorn>=22.0
